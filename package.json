@@ -1,0 +1,13 @@
+{
+  "name": "voxel-world-generator",
+  "version": "1.0.0",
+  "description": "Procedural voxel world generation",
+  "main": "src/world.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "jest"
+  },
+  "keywords": ["voxel", "procedural", "generation"],
+  "author": "",
+  "license": "MIT"
+}
